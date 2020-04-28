@@ -1,0 +1,7 @@
+D:\works\C#\ASP.Net\Speach AI\Speach AI\bin\Debug\Speach AI.exe.config
+D:\works\C#\ASP.Net\Speach AI\Speach AI\bin\Debug\Speach AI.exe
+D:\works\C#\ASP.Net\Speach AI\Speach AI\bin\Debug\Speach AI.pdb
+D:\works\C#\ASP.Net\Speach AI\Speach AI\obj\Debug\Speach AI.csprojAssemblyReference.cache
+D:\works\C#\ASP.Net\Speach AI\Speach AI\obj\Debug\Speach AI.csproj.CoreCompileInputs.cache
+D:\works\C#\ASP.Net\Speach AI\Speach AI\obj\Debug\Speach AI.exe
+D:\works\C#\ASP.Net\Speach AI\Speach AI\obj\Debug\Speach AI.pdb
